@@ -39,9 +39,6 @@ Established a foundational professional online presence across key platforms ess
 ### Module 3: Coding & Collaboration Platforms
 
 Explored online tools for studying, coding practice, and collaborating.
-**Important Link:**
-
-* [Digital Literacy Awareness Quiz - Google Form]([INSERT_GOOGLE_FORM_LINK_HERE])
 
 ### Module 4: Professional Communication
 
